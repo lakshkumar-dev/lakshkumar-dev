@@ -1,39 +1,77 @@
 <h1 align="center">Hi 👋, I'm Laksh Kumar</h1>
 
+<h3 align="center">📱 Building Mobile Apps & Websites</h3>
+
 <p align="center">
-  📱 I build mobile apps & websites
+Passionate Flutter Developer from Pakistan 🇵🇰
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Flutter developer passionate about building clean, fast, and user-friendly mobile applications. I'm constantly learning new technologies and improving my development skills through personal projects.
-
-- 🌱 Currently learning Flutter & Web Development
-- 🔥 Exploring Firebase & REST APIs
-- 💙 Love Clean UI & Clean Code
-- 🚀 Always building and improving
+- 🌱 Currently learning **Flutter & Web Development**
+- 🔥 Building real-world mobile applications
+- 💙 Interested in Clean UI & Clean Code
+- 🚀 Exploring Firebase, REST APIs & State Management
+- 📚 Always learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshkumar-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshkumar-dev&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshkumar-dev&theme=tokyonight)](https://git.io/streak-stats)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshkumar-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshkumar-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lakshkumar-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- Flutter Advanced UI
+- Firebase
+- REST APIs
+- Provider
+- Web Development
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/lakshkumar63
-- 📧 Email: lakshkumar.dev@gmail.com
+<p align="left">
+
+💼 LinkedIn  
+https://linkedin.com/in/lakshkumar63
+
+📧 Email  
+lakshkumar.dev@gmail.com
+
+</p>
 
 ---
 
+<div align="center">
+
 ⭐ Thanks for visiting my profile!
+
+</div>
