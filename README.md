@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Laksh Kumar</h1>
 
-<!--
-**lakshkumar-dev/lakshkumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  📱 I build mobile apps & websites
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Flutter developer passionate about building beautiful, fast, and scalable mobile applications. I'm continuously learning new technologies and improving my development skills.
+
+- 🌱 Currently learning Flutter & Web Development
+- 🔥 Exploring Firebase & REST APIs
+- 💙 Love Clean UI & Clean Code
+- 🚀 Always building and improving
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase
+- REST APIs
+- Provider
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/lakshkumar63
+- 📧 Email: lakshkumar.dev@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
