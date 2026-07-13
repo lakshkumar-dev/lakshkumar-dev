@@ -23,6 +23,9 @@ I'm a Flutter developer passionate about building clean, fast, and user-friendly
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Laksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshkumar-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshkumar-dev&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lakshkumar-dev&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
