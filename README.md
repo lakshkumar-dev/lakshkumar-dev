@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Flutter developer passionate about building beautiful, fast, and scalable mobile applications. I'm continuously learning new technologies and improving my development skills.
+I'm a Flutter developer passionate about building clean, fast, and user-friendly mobile applications. I'm constantly learning new technologies and improving my development skills through personal projects.
 
 - 🌱 Currently learning Flutter & Web Development
 - 🔥 Exploring Firebase & REST APIs
